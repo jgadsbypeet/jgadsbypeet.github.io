@@ -1,1 +1,1 @@
-# jgadsbypeet.github.io
+# jgadsbypeet-hugo
