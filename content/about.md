@@ -6,3 +6,4 @@ summary = "We're going to tell you all about us"
 +++
 
 <p> this is about us 2</p>
+![pandas2]({{site.baseurl}}/static/images/pandas-JGP.jpg)
